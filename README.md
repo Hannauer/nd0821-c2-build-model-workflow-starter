@@ -9,8 +9,11 @@ to be retrained with the same cadence, necessitating an end-to-end pipeline that
 In this project you will build such a pipeline.
 
 
-## Link do Wandb Project:
+## Link to Wandb project:
 https://wandb.ai/hannauer/nyc_airbnb?workspace=user-hannauer
+
+## Link to github repository:
+https://github.com/Hannauer/nd0821-c2-build-model-workflow-starter
 
 ## Table of contents
 
